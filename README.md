@@ -27,52 +27,6 @@
 
 ## ❤️ 前言
 
-早在10年前后的样子,那会在用网页版QQ的时候我就已经开始使用酷狗音乐了(也是十来年的老粉了),所以这些年收藏的歌曲全部都在上面.后来我也尝试开始使用网易云或QQ音乐,也尝试把酷狗的歌单导入进去,但是效果都不尽人意.我听的大多是日漫OP,好多歌曲都没办法找到.
-
-兜兜转转最后还是回到酷狗,但是在Mac端的酷狗,时常可能会出现不能播放的情况,虽说界面没什么功能,但也挺好的.在网友的安利下,我现在一直是在酷狗的[概念版](https://t1.kugou.com/d2tBza3CSV2)上听歌,并且是市面上为数不多能免费听VIP歌曲的音乐播放软件了,力推.
-
-我在我的个人介绍页面说我特别喜欢听歌,尤其是日漫OP.怎么证明呢?(之前我网页版歌单也年久失修了)那就自己开发一个音乐播放器.
-
-
-## ✨ 特性
-
-- ✅ 使用 Vue.js 全家桶开发
-- 🔴 酷狗账号登录（扫码/手机/账号登录）
-- 📃 支持歌词显示
-- 📻 每日推荐歌曲
-- 🚫🤝 无任何社交功能
-- 🔗 官方服务器直连, 无任何第三方 API
-- ✔️ 每日自动领取VIP, 登录就是VIP
-- 🎨 主题色切换 
-- 👋 启动问候语
-- ⚙️ 多平台支持
-- 🛠 更多特性开发中
-
-## 📢 Todo List
-- [x] 📺 支持 MV 播放
-- [x] 🌚 Light/Dark Mode 自动切换
-- [x] 👆 支持 Touch Bar
-- [x] 🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑
-- [ ] 🎧 支持 Mpris
-- [x] ⌨️ 全局快捷键
-- [x] 🤟 多语言支持
-- [x] 📻 桌面歌词
-- [x] ⚙️ 系统架构优化
-- [x] 🎶 歌曲、歌单/收藏、取消
-
-更新日志请查看 [Commits](https://github.com/iAJue/MoeKoeMusic/commits/main/)
-
-## 📦️ 安装
-
-### 1. 客户端安装
-
-访问本项目的 [Releases](https://github.com/iAJue/MoeKoeMusic/releases) 页面下载安装包。
-
-### 2. WEB端安装（docker）
-
-* 注意：部署后请开放服务器对应端口才可使用，或者使用反向代理实现域名访问。
-
-    1. 方式一：快速启动（推荐）
 
     ```
     git clone https://github.com/iAJue/MoeKoeMusic.git
@@ -252,7 +206,6 @@ npm run build
 
 如果您觉得这个项目对您有帮助，欢迎给我们一个 Star！您的支持是我们持续改进的动力。
 
-[![GitHub stars](https://img.shields.io/github/stars/iAJue/MoeKoeMusic.svg?style=social&label=Star)](https://github.com/iAJue/MoeKoeMusic)
 
 ## ✅ 反馈
 
